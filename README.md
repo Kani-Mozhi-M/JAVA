@@ -1,3 +1,3 @@
 # JAVA
 
-SOLVING JAVA PROBLEMS
+Solving problems using JAVA
